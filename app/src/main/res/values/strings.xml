@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextEditorCompose</string>
+    <string name="button_submit">Submit</string>
+    <string name="heading">Text Editor Jetpack Compose</string>
+</resources>
